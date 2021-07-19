@@ -51,6 +51,8 @@ order by d.first_order, cohort_period
 
 
 ## seaborn으로 시각화
+[nb뷰어로 보기](https://nbviewer.jupyter.org/github/sehyunk/bigquery-cohort-analysis/blob/master/cohort.ipynb){:target="_blank"}
+
 
 
 
